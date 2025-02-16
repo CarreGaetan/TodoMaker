@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CarreGaetan/TodoMaker/static/css/main.9ecf2cbc.css",
-    "main.js": "/CarreGaetan/TodoMaker/static/js/main.ec4c6797.js",
-    "static/js/488.6e09211b.chunk.js": "/CarreGaetan/TodoMaker/static/js/488.6e09211b.chunk.js",
-    "index.html": "/CarreGaetan/TodoMaker/index.html",
-    "main.9ecf2cbc.css.map": "/CarreGaetan/TodoMaker/static/css/main.9ecf2cbc.css.map",
-    "main.ec4c6797.js.map": "/CarreGaetan/TodoMaker/static/js/main.ec4c6797.js.map",
-    "488.6e09211b.chunk.js.map": "/CarreGaetan/TodoMaker/static/js/488.6e09211b.chunk.js.map"
+    "main.css": "/TodoMaker/static/css/main.9ecf2cbc.css",
+    "main.js": "/TodoMaker/static/js/main.3832875a.js",
+    "static/js/488.6e09211b.chunk.js": "/TodoMaker/static/js/488.6e09211b.chunk.js",
+    "index.html": "/TodoMaker/index.html",
+    "main.9ecf2cbc.css.map": "/TodoMaker/static/css/main.9ecf2cbc.css.map",
+    "main.3832875a.js.map": "/TodoMaker/static/js/main.3832875a.js.map",
+    "488.6e09211b.chunk.js.map": "/TodoMaker/static/js/488.6e09211b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ecf2cbc.css",
-    "static/js/main.ec4c6797.js"
+    "static/js/main.3832875a.js"
   ]
 }
